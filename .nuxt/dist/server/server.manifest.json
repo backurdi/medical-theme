@@ -1,0 +1,25 @@
+{
+  "entry": "server.js",
+  "files": {
+    "lang-ar-AR.js.js": "lang-ar-AR.js.js",
+    "lang-de-DE.js.js": "lang-de-DE.js.js",
+    "lang-id-ID.js.js": "lang-id-ID.js.js",
+    "lang-pt-PT.js.js": "lang-pt-PT.js.js",
+    "lang-zh-ZH.js.js": "lang-zh-ZH.js.js",
+    "pages/blank-page.js": "pages/blank-page.js",
+    "pages/contact.js": "pages/contact.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "lang-ar-AR.js.js": "lang-ar-AR.js.js.map",
+    "lang-de-DE.js.js": "lang-de-DE.js.js.map",
+    "lang-id-ID.js.js": "lang-id-ID.js.js.map",
+    "lang-pt-PT.js.js": "lang-pt-PT.js.js.map",
+    "lang-zh-ZH.js.js": "lang-zh-ZH.js.js.map",
+    "pages/blank-page.js": "pages/blank-page.js.map",
+    "pages/contact.js": "pages/contact.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

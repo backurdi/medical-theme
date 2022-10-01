@@ -20,7 +20,7 @@ export const options = {
   sortRoutes: true,
   strategy: "prefix_except_default",
   lazy: true,
-  langDir: "/Users/bachirkurdi/Desktop/veluxi_v301/veluxi/packages/medical-theme/static/lang",
+  langDir: "/Users/bachirkurdi/Pro/medical-theme/static/lang",
   rootRedirect: null,
   detectBrowserLanguage: {"alwaysRedirect":true,"cookieCrossOrigin":false,"cookieDomain":null,"cookieKey":"i18n_redirected","cookieSecure":false,"fallbackLocale":"","redirectOn":"root","useCookie":true},
   differentDomains: false,
